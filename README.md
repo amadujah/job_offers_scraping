@@ -4,6 +4,6 @@ This is a maven application which "scrape" some web sites job offers for extract
 # used librairies : 
   [HtmlUnit](https://github.com/HtmlUnit/htmlunit) for data extraction
   
-  [Morphia](https://github.com/MorphiaOrg/morphia) 
+  [Morphia](https://github.com/MorphiaOrg/morphia) a MongoDB object-document mapper in Java.
   
 
